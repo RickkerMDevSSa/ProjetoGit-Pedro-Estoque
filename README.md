@@ -1,2 +1,2 @@
 # ProjetoGit-Pedro-Estoque
-Projeto em desenvolvimento de Pedro e Rick- Sistema Estoque
+Projeto em desenvolvimento de Pedro e Rickker- Sistema Estoque
